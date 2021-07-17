@@ -11,6 +11,7 @@
 [Gobuster](https://github.com/OJ/gobuster) - Gobuster is a tool used to brute-force URIs.  
 [DirBuster](https://gitlab.com/kalilinux/packages/dirbuster) - Brute force directories and files names on web/application servers.  
 [Shodan](https://www.shodan.io/) - Search Engine for the Internet of Things.  
+[Exploit-db](https://www.exploit-db.com/) - The Exploit Database is a CVE compliant archive of public exploits and corresponding vulnerable software.  
 
 ## CLI Examples
 ### Nmap
