@@ -12,6 +12,7 @@
 [DirBuster](https://gitlab.com/kalilinux/packages/dirbuster) - Brute force directories and files names on web/application servers.  
 [Shodan](https://www.shodan.io/) - Search Engine for the Internet of Things.  
 [Exploit-db](https://www.exploit-db.com/) - The Exploit Database is a CVE compliant archive of public exploits and corresponding vulnerable software.  
+[Cyber Security Resources](https://github.com/The-Art-of-Hacking/h4cker) - This repository includes thousands of cybersecurity-related references and resources
 
 ## CLI Examples
 ### Nmap
