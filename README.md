@@ -6,7 +6,8 @@
 [Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings) (reverse shell) - A list of useful payloads and bypasses for Web Application Security.  
 [Metasploit](https://github.com/rapid7/metasploit-framework) - The world’s most used penetration testing framework.  
 [PEASS (linPEAS)](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite) - privilege escalation tools.  
-[GTFOBins](https://gtfobins.github.io/) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.  
+[GTFOBins](https://gtfobins.github.io/) - GTFOBins is a curated list of **Unix** binaries that can be used to bypass local security restrictions in misconfigured systems.  
+[LOLBAS](https://lolbas-project.github.io/) - Binaries for **Windows**
 [CyberChef](https://gchq.github.io/CyberChef/) - A web app for encryption, encoding, compression and data analysis. [GitHub repo](https://github.com/gchq/CyberChef)  
 [Gobuster](https://github.com/OJ/gobuster) - Gobuster is a tool used to brute-force URIs.  
 [DirBuster](https://gitlab.com/kalilinux/packages/dirbuster) - Brute force directories and files names on web/application servers.  
